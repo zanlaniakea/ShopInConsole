@@ -1,0 +1,13 @@
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.exe
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.deps.json
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.runtimeconfig.json
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.runtimeconfig.dev.json
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.dll
+D:\develop me\ShopInConsole\bin\Debug\netcoreapp3.1\ShopInConsole.pdb
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.AssemblyInfoInputs.cache
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.AssemblyInfo.cs
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.csproj.CoreCompileInputs.cache
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.dll
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.pdb
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.genruntimeconfig.cache
+D:\develop me\ShopInConsole\obj\Debug\netcoreapp3.1\ShopInConsole.csprojAssemblyReference.cache
